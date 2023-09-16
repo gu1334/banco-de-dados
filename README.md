@@ -7,4 +7,11 @@ Neste projeto enfrentei alguns dezafios e creio que o mais dificil deles foi uti
 
 ![..](bd/zedelivery.jpg)
 
+##
+
+Acima esta um JPG do projeto que fiz.
+
+##
+
+Mas caso queira tenho o projeto salvo em draw.io na pasta de bd.
 
