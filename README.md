@@ -7,7 +7,7 @@ Colocando usuários administradores que alguns vendedores vão ter acesso, cada 
 ##
 
 
-![..](bd/zedelivery.jpg)
+![..](bd/zédelivery.drawio.png)
 
 ##
 
