@@ -7,11 +7,7 @@ Colocando usuários administradores que alguns vendedores vão ter acesso, cada 
 ##
 
 
-![..](bd/zédelivery.drawio.png)
-
-##
-
-Neste projeto enfrentei alguns desafios e creio que o mais dificil deles foi utilizar o github, mas em relação ao trabalho tive algumas dificuldades sobre como fazer um carrinho de compras com o menor numero possivel de erros, fiz os status de pagamento e pedido, preferi adicionar algumas tabelas a mais para tentar deixar mais organizado o projeto.
+![..](bd/zédelivery/zédelivery.drawio.png)
 
 ##
 
@@ -24,4 +20,4 @@ Nesta parte do projeto fiz a parte logica mais simples do Zé delivery como esta
 
 ##
 
-![..](bd/zeDeliveryLogico.drawio.png)
+![..](bd/zédelivery/zeDeliveryLogico.drawio.png)
