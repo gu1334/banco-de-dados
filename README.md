@@ -16,10 +16,11 @@ Neste projeto enfrentei alguns desafios e creio que o mais dificil deles foi uti
 ##
 
 Acima esta um JPG do projeto que fiz, Mas caso queira tenho o projeto salvo em draw.io na pasta de bd.
+##
 
 # Projeto lógico do Zé delivery
 
-Nesta parte do projeto fiz a parte logica como esta abaixo
+Nesta parte do projeto fiz a parte logica mais simples do Zé delivery como esta abaixo para compreender de uma maneira mais facil
 
 ##
 
