@@ -7,7 +7,7 @@ Colocando usuários administradores que alguns vendedores vão ter acesso, cada 
 ##
 
 
-![..](bd/zédelivery/zédelivery.drawio.png)
+![..](bd/zeDelivery/zédelivery.drawio.png)
 
 ##
 
@@ -20,4 +20,4 @@ Nesta parte do projeto fiz a parte logica mais simples do Zé delivery como esta
 
 ##
 
-![..](bd/zédelivery/zeDeliveryLogico.drawio.png)
+![..](bd/zeDelivery/zeDeliveryLogico.drawio.png)
