@@ -16,7 +16,7 @@ Acima esta um JPG do projeto que fiz, Mas caso queira tenho o projeto salvo em d
 
 # Projeto lógico do Zé delivery
 
-Nesta parte do projeto fiz a parte logica mais simples do Zé delivery como esta abaixo para compreender de uma maneira mais facil
+Nesta parte do projeto fiz a parte logica do Zé delivery como esta abaixo. 
 
 ##
 
