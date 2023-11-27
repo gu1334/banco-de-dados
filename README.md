@@ -28,13 +28,13 @@ Nesta parte do projeto fiz a parte logica do Zé delivery como esta abaixo.
 # Projeto Final 
 
 O projeto sofreu algumas modificações de tabelas entre outras coisas.
-nesta primeira parte criei um inner join que mostra todos os pedidos feitos, com inumeros informação como vão ver a seguir.
-
-##
-#a tabela do inner join
-![..](inner join 1.png)
-
+# Tabela do inner join
+### Nesta primeira parte criei um inner join que mostra todos os pedidos feitos, com inumeros informação como vão ver a seguir.
+![..](innerjoin1.png)
+![..](tabelainnejoin1.png)
 ##
 
-
-
+### Nesta segunda parte mostra a soma de todos os pedidos, a data e o nome do cliente.
+![..](innerjoin2.png)
+![..](tabelainnejoin2.png)
+##
