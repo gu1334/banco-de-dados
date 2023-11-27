@@ -31,7 +31,9 @@ O projeto sofreu algumas modificações de tabelas entre outras coisas.
 nesta primeira parte criei um inner join que mostra todos os pedidos feitos, com inumeros informação como vão ver a seguir.
 
 ##
-a tabela do inner join
+#a tabela do inner join
+![..](inner join 1.png)
+
 ##
 
 
