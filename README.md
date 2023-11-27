@@ -38,3 +38,7 @@ O projeto sofreu algumas modificações de tabelas entre outras coisas.
 ![..](innerjoin2.png)
 ![..](tabelainnejoin2.png)
 ##
+
+# Diagrama final
+### O diagrama final fica desta forma com o banco completo
+![..](final.png)
