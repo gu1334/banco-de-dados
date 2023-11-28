@@ -41,7 +41,7 @@ O projeto sofreu algumas modificações de tabelas entre outras coisas.
 ### Nesta parte mostra a soma de todos os pedidos, a data e o nome do cliente.
 ![..](innerjoin2.png)
 ![..](tabelainnejoin2.png)
-
+##
 
 ### Nesta parte mostra a soma toal de todos os pedidos pela data.
 ![..](dataTotalVendas.png)
