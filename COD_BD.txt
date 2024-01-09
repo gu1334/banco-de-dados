@@ -1,11 +1,5 @@
 
 
-Página
-3
-de 17
-Página
-1
-de 9
 CREATE TABLE [FORNECEDOR]
 (
 [COD_FORNECEDOR] INTEGER NOT NULL,
